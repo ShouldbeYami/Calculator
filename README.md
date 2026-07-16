@@ -1,5 +1,13 @@
 # Calculator
 This is just a normal menu-driven calculator made using Python. Hope it works for ya!
+
+
+
+
+
+
+
+
 def add(a, b):
     return a+b 
 def subtract(a, b):
