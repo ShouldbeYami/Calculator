@@ -7,9 +7,8 @@ This is just a normal menu-driven calculator made using Python. Hope it works fo
 
 
 
-
 def add(a, b):
-    return a+b 
+   return a+b 
 def subtract(a, b):
     return a-b 
 def multiply(a, b):
@@ -18,7 +17,6 @@ def divide(a, b):
     if b == 0: 
         return("No number can be divided by zero") 
     return a / b 
-    
 
 while True:
     print("--------MENU--------")
